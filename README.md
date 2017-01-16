@@ -1,4 +1,6 @@
 
-#### Algorithms for fast calculations.
+## Algoritmos uteis para cálculos rápidos.
+## Algorithms for fast calculations.
 
-by Atos Vinicius
+
+###by Atos Vinicius
